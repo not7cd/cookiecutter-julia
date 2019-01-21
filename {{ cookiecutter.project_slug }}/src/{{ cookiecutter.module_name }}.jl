@@ -1,4 +1,4 @@
-module Example
+module {{ cookiecutter.module_name }}
 export hello, domath
 
 """
