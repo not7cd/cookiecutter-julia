@@ -3,5 +3,5 @@
 Example Julia package repo.
 
 ```@autodocs
-Modules = [{{ cookiecutter.project_slug }}]
+Modules = [{{ cookiecutter.module_name }}]
 ```
